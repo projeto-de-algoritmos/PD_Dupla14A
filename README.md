@@ -1,4 +1,4 @@
-# Two for one
+# Two4one
 
 **Número da Lista**: 5<br>
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
@@ -10,7 +10,8 @@
 | 17/0050939 | Lucas Dutra |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+### A maior subsequência palindrômica
+A maior subsequência palindrômica é um problema que consiste em achar a maior subsequência de uma _string_ que também é um palíndromo. Digite uma palavra no campo e aperte o botão "Palíndromo!", que será mostrado o tamanho da maior subsequência palindrômica e a maior subsequência palindrômica.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
