@@ -49,6 +49,7 @@ A segunda etapa é crucial, ela é resolvida utilizando Programação Dinâmica.
     ```
 
 ## Uso 
+[Vídeo de explicação](https://github.com/projeto-de-algoritmos/PD_Two4One/blob/master/explicacao.mp4)
 ### Palíndromo
 1. Insira uma palavra no campo indicado.
 2. Clique no botão "Palíndromo" para obter a maior subsequência palindrômica e o tamanho da maior subsequência palindrômica.
